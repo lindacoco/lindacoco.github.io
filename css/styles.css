@@ -480,8 +480,8 @@ mark,
 }
 
 .img-fluid {
-  width: 558px;
-  height: 300px;
+  width: 100%;
+  height: auto;
 }
 
 .img-thumbnail {
@@ -9968,7 +9968,7 @@ a.text-black:hover, a.text-black:focus {
 
 .text-white-50 {
   font-family: 'DWImpactamin';
-  font-size: 1.2em;
+  font-size: 1em;
   color: rgba(255, 255, 255, 1) !important;
 }
 
@@ -10259,7 +10259,7 @@ body {
   }
 }
 .projects-section .project-text {
-  padding: 3rem;
+  padding: 1rem;
   font-size: 90%;
 }
 @media (min-width: 992px) {
